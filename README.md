@@ -1,2 +1,2 @@
 # MyBuddy This master Today
-hsafhssdjkghdsjkfghlkjhf
+Refactored boilerplace code to thymeleaf fragments
